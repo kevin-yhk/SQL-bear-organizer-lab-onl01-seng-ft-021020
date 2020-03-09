@@ -10,5 +10,6 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (
 "Grinch", 6, "female", "green", "hardy", True)
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (
-"Wendy", 7, "male", "gold", )
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ()
+"Wendy", 7, "male", "gold", "modest", False )
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (
+NULL, 8, "female", "platinum", )
